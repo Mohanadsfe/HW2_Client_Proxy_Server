@@ -16,5 +16,11 @@ Network Of Network
 
 <img width="632" alt="Screenshot 2022-11-26 at 19 45 07" src="https://user-images.githubusercontent.com/92846018/204102063-10540903-4ac3-4ccb-8606-2af42f50f3f7.png">
 
+<img width="616" alt="Screenshot 2022-11-30 at 13 36 47" src="https://user-images.githubusercontent.com/92846018/204788578-8b8ef07c-1966-462f-97d2-6c47a4fe7785.png">
+<img width="457" alt="Screenshot 2022-11-30 at 13 37 14" src="https://user-images.githubusercontent.com/92846018/204788620-5e1aaff0-57d0-455e-b95c-f96137031c54.png">
+
+
+
+
 
 
